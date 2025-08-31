@@ -39,7 +39,7 @@ These containers can run consistently across different environments — from you
 </td>
 <td>
 
-<img src="images/docker-vs-vm.png" alt="Docker vs VM" width="300">
+<img src="images/Docker-vs-VM.png" alt="Docker vs VM" width="500">
 
 </td>
 </tr>
@@ -63,7 +63,7 @@ These containers can run consistently across different environments — from you
 </td>
 <td>
 
-<img src="images/docker-key-terms.png" alt="Docker Key Terms" width="300">
+<img src="images/Docker-img-container.png" alt="Docker Key Terms" width="800">
 
 </td>
 </tr>
