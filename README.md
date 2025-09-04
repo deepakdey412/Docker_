@@ -17,6 +17,7 @@ This repository contains **Docker examples, exercises, and projects** to help yo
 - ❓ **Common Interview Questions**  
 
 ---
+
 ## 🖼️ Docker Concept Animation
 
 <div align="center">
@@ -56,7 +57,6 @@ Prepare for Docker interviews with the following resources:
 <div align="center"> 
   <img src="https://miro.medium.com/1*QQk-kwU6qwPlIkR_rzxrYQ.gif" alt="Docker Animation" width="400"/>
 </div>
- 
 
 ---
 
