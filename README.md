@@ -17,8 +17,14 @@ This repository contains **Docker examples, exercises, and projects** to help yo
 - ❓ **Common Interview Questions**  
 
 ---
-## 📘 Docker Working Diagram 
-![Docker Concepts](https://miro.medium.com/v2/resize:fit:1400/1*6hG1fvFGUCh6YekJ1N9DhQ.png)  
+## 🖼️ Docker Concept Animation
+
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*389AL3K_j8-b71PODN_1EA.gif" 
+       alt="Docker Animation" 
+       height="300"/>
+</div>
+
 ---
 
 ## 📘 Docker Interview Questions
@@ -47,7 +53,10 @@ Prepare for Docker interviews with the following resources:
 
 ### 🌟 Happy Dockering! 🐳💨
 
-![Docker Animation](https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)  
+<div align="center"> 
+  <img src="https://miro.medium.com/1*QQk-kwU6qwPlIkR_rzxrYQ.gif" alt="Docker Animation" width="400"/>
+</div>
+ 
 
 ---
 
